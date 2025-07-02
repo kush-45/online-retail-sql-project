@@ -25,6 +25,8 @@ C.	Insert Sample Data:
 D. Write Queries:
 	-- Retrieve data (e.g., customer orders, popular products).
 
+## Purpose:
+This project was created to practice relational database design, query optimization, and business data analysis using SQL. Ideal for students, data analysts, or developers seeking to understand e-commerce data structures and logic.
 
  ## Purpose:
 This project was created to practice relational database design, query optimization, and business data analysis using SQL.
