@@ -1,5 +1,7 @@
 # online-retail-sql-project
 SQL project showcasing database design and analytical queries for a fictional online retail system. Includes table creation, relationships, and insights like top customers, sales by category, and monthly order summaries.
+
+
 We'll develop a project for a "Fictional Online Retail Company". 
 This project will cover creating a database, tables, and indexes, inserting data,
 and writing various queries for reporting and data analysis.
